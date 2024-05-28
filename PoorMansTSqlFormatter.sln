@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3049502E-2389-4C0B-88EB-485A0C4C79C1}"
 	ProjectSection(SolutionItems) = preProject
@@ -155,6 +155,7 @@ Global
 		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|PureDotNet.ActiveCfg = Release|Any CPU
 		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|PureDotNet.Build.0 = Release|Any CPU
 		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|x64.ActiveCfg = Release|Any CPU
+		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|x64.Build.0 = Release|Any CPU
 		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|x86.ActiveCfg = Release|Any CPU
 		{26FF8D32-886E-426E-A5BA-8AA7D7F14DFA}.Release|x86.Build.0 = Release|Any CPU
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
@@ -165,6 +166,7 @@ Global
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|PureDotNet.ActiveCfg = Release|Any CPU
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|PureDotNet.Build.0 = Release|Any CPU
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|x64.ActiveCfg = Release|Any CPU
+		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|x64.Build.0 = Release|Any CPU
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|x86.ActiveCfg = Release|Any CPU
 		{679B3998-C5A5-4B64-8674-70BE959ACE6E}.Release|x86.Build.0 = Release|Any CPU
 		{944E63B9-65A4-4139-BD42-096E1B15EF86}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
@@ -230,7 +232,6 @@ Global
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|PureDotNet.ActiveCfg = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|PureDotNet.Build.0 = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x64.ActiveCfg = Release|Any CPU
-		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x64.Build.0 = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x86.ActiveCfg = Release|Any CPU
 		{A160C033-3357-4BBB-9BF6-7B7D9971AD65}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
